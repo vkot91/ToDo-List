@@ -1,1 +1,1 @@
-# JavaScript training. Simple TodoList with LocalStorage>> README.md
+# JavaScript training. Simple TodoList with LocalStorage
